@@ -1,0 +1,11 @@
+{
+    "name": "HandyCraft",
+    "version": "1.0.0",
+    "title": "HandyCraft",
+    "author": "ceresward",
+    "contact": "https://reddit.com/u/ceresward",
+    "homepage": "https://github.com/ceresward/factorio-handycraft",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "HandyCraft adds key sequences (default ALT+Q, SHIFT+ALT+Q) for quickly adding 1 or 5 crafts of a held item or selected entity to the handcrafting queue."
+}
