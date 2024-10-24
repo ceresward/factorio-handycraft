@@ -1,0 +1,2 @@
+-- Uncomment this line to enable debug prototypes (IMPORTANT: Comment out before publishing!)
+--require('debug.data-updates')
