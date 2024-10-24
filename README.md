@@ -28,6 +28,8 @@ The mod creates two new configurable key sequences (default ALT+Q, SHIFT+ALT+Q) 
 ### 1.1
 
 - Selection tool for adding items to the handcrafting queue as needed to build all ghosts in the selected area?
+- Config setting to customize the "craft multiple" size?
+- Patch the base game issue where the ghost cursor doesn't refresh after handcrafting completes?
 
 ## Release Notes
 
